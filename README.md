@@ -1,3 +1,3 @@
 ## Personal landing 
 
-Web page taken from html5up templates
+Template's author in: html5up
